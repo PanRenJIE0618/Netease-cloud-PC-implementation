@@ -1,5 +1,9 @@
-# 依赖包用到
+# contributors (In no particular order)
+ - Pan
+ - wang
+ - shi
 
+# shrinkwrap
 ```json
    "axios": "^0.26.1",
    "core-js": "^3.8.3",
